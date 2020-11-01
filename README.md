@@ -1,2 +1,3 @@
 # CEREINTELLECT
 CEREINTELLECT IS AN INTELLEGENT CODE BY AURICLE ROBOTICS !
+it is an intelligent code made by us 
