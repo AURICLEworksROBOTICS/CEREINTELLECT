@@ -9,4 +9,4 @@ https://sites.google.com/view/auricle-robotics/home
 
 ...........................................................................
 
-cad model of cere intellect is being prepared
+cad model of cere intellect has been prepared
