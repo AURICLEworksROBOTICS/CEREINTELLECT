@@ -8,5 +8,26 @@ cere intellect project will have a logo like the logo of this startup :)
 https://sites.google.com/view/auricle-robotics/home
 
 ...........................................................................
+most of the files are attached :)
 
-cad model of cere intellect has been prepared
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
