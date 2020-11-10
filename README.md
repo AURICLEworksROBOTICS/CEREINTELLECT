@@ -21,7 +21,7 @@ int b2 = 6 ;
 int b3 = 7 ;
 int b4 = 8 ;
 
-void setup (){
+void setup () {
 
 pinMode ( b1 , OUTPUT );
 pinMode ( b2 , OUTPUT );
