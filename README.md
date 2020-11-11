@@ -38,7 +38,7 @@ digitalWrite ( b1 == HIGH && b2 == HIGH );
 
 -----------------codes are incomplete-------------------------------------
 ---------------------------------------------------------------------------------
-this read me code will be deleted soon
+this read me code will be deleted soon and code will be attached with this repository !
 
 
 
