@@ -16,10 +16,10 @@ rough codes :
 
 
 
-int b1 = 5 ;
-int b2 = 6 ;
-int b3 = 7 ;
-int b4 = 8 ;
+int b1 = 5  ;
+int b2 = 6  ;
+int b3 = 7  ;
+int b4 = 8  ;
 
 void setup ()  {
 
