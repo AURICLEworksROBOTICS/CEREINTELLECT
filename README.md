@@ -8,7 +8,7 @@ cere intellect project will have a logo like the logo of this startup :)
 
 visit our website : https://sites.google.com/view/auricle-robotics/home
 MOST OF THE FILES ARE ATTACHED TO THIS REPOSITORY !
-you can see them :-)
+you can see them  :-)
 
 
 
