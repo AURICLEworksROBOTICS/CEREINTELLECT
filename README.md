@@ -3,7 +3,7 @@ CEREINTELLECT IS AN INTELLEGENT CODE BY AURICLE ROBOTICS !
 
 It is an intelligent code made by us 
 
-cere intellect project will have a logo like the logo of this startup :)
+cere intellect project will have a logo like the logo of this startup  :)
 
 
 visit our website : https://sites.google.com/view/auriclerobotics/home
