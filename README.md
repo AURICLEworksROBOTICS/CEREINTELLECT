@@ -13,7 +13,7 @@ MOST OF THE FILES ARE ATTACHED TO THIS REPOSITORY !
 you can see them  :-)
 
 
-inspired by OPEN AI  !
+inspired by OPEN AI   !
 
 
 
